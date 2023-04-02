@@ -1,0 +1,21 @@
+{
+  "name": "desafio-carefy",
+  "version": "1.0.0",
+  "description": "Plataforma de cadastro de paciente, com login de usuário utilizando a api do github",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "passport": "^0.6.0",
+    "passport-github": "^1.1.0",
+    "passport-github2": "^0.1.12",
+    "react-router-dom": "^6.10.0"
+  }
+}
